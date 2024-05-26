@@ -1,7 +1,5 @@
 # Guestbook Application Lab
 
-![cognitiveclass.ai logo](cognitiveclass_logo.png)
-
 This repository contains the materials for a lab on building and deploying a simple Guestbook application using OpenShift.
 
 ## Objectives
